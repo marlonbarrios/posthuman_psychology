@@ -1,6 +1,6 @@
 # Manifesto for a Post-Human Psychology of Cognitive Assemblages
 
-by Marlon Barrios Solano
+by Marlon Barrios Solano 01/15/2026
 
 ## 1. Preamble: 
 
@@ -257,6 +257,4 @@ Psychology must move:
 
 ---
 
-## Final Anchoring Sentence
-
-**Post-Human Psychology is a psychology of embodied, embedded, enactive, extended, and symbiotic cognitive assemblages—grounded in a Braidottian ethics of relational becoming across humans, non-human life, and artificial systems.**
+**Post-Human Psychology is a psychology of embodied, embedded, enactive, extended, and symbiotic cognitive assemblages—grounded in an ethics of relational becoming across humans, non-human life, and artificial systems.**
