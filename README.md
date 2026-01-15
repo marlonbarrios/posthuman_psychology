@@ -1,8 +1,11 @@
 # Manifesto for a Post-Human Psychology of Cognitive Assemblages
 
-by Marlon Barrios Solano 01/15/2026
+## A Call to Action for Institutions, Curricula, and Research Practices  
+**Marlon Barrios Solano — 01/15/2026**
 
-## 1. Preamble: 
+---
+
+## 1. Psychology Must Be Reconfigured
 
 Psychology must be reconfigured.
 
@@ -10,19 +13,26 @@ Not expanded.
 Not updated.  
 Reconfigured.
 
-The dominant psychological paradigm—centered on a bounded, autonomous, self-regulating human individual—no longer corresponds to how cognition, affect, and subjectivity actually emerge. Contemporary minds are formed through dense, asymmetrical entanglements with non-human animals, artificial intelligence systems, technological infrastructures, environments, and cultural imaginaries.
+The dominant psychological paradigm—centered on a bounded, autonomous, self-regulating human individual—no longer corresponds to how cognition, affect, subjectivity, care, and suffering actually emerge.
 
-This manifesto proposes a **Post-Human Psychology of Cognitive Assemblages**, redefining psychology as the study of relational, embodied, enactive, extended, and symbiotic processes of mind.
+Contemporary minds are formed through dense, asymmetrical entanglements with non-human animals, fungi, microbial symbionts, artificial intelligence systems, technological infrastructures, ecological systems, and cultural imaginaries.
+
+This manifesto proposes a Post-Human Psychology of Cognitive Assemblages, redefining psychology as the study of relational, embodied, enactive, extended, symbiotic, recursive, historical, and geopolitical processes of mind.
+
+This is not a theoretical preference.  
+It is an epistemic, institutional, and ethical necessity.
 
 ---
 
-## 2. The Posthuman: A Braidottian Foundation
+## 2. The Human Is No Longer the Measure
 
-From the perspective of Rosi Braidotti, the posthuman is not a futuristic or technological condition. It is a critical rupture with human exceptionalism.
+The posthuman is not a futuristic condition.  
+It is a rupture with human exceptionalism  
+([Rosi Braidotti](https://en.wikipedia.org/wiki/Rosi_Braidotti)).
 
-Humanism universalized a particular figure of “Man”—Western, white, male, able-bodied, heterosexual, rational—as the measure of all things. Psychology inherited this figure as its implicit subject.
+Humanism universalized a particular figure of “Man”—Western, white, male, able-bodied, heterosexual, rational—as the implicit subject of psychology.
 
-The posthuman names the ethical and epistemic moment when this figure collapses.
+That figure no longer holds.
 
 The posthuman subject is:
 - relational rather than autonomous,
@@ -30,231 +40,281 @@ The posthuman subject is:
 - embedded rather than universal,
 - processual rather than fixed.
 
-This manifesto fully adopts this position.
+Psychology must abandon the individual as its unquestioned epistemic center and redesign its theories, methods, and pedagogies accordingly.
 
 ---
 
-## 3. Zoë and Non-Anthropocentric Ethics
+## 3. Life Exceeds the Human
 
-Braidotti’s concept of *zoë* names life as a generative force that exceeds the human.
+Life exceeds the human.
 
-Zoë includes:
+Zoë names life as a generative force  
+([Rosi Braidotti](https://en.wikipedia.org/wiki/Rosi_Braidotti))  
+that includes:
 - animal life,
-- vegetal and microbial life,
-- ecosystems,
-- and technologically mediated life processes.
+- vegetal, fungal, and microbial life,
+- ecosystems and planetary processes,
+- technologically mediated life processes.
 
-By centering zoë, posthuman psychology adopts a non-anthropocentric ethics, understanding humans as participants in larger ecologies of becoming rather than masters of life.
+Fungi, bacteria, and microbial symbionts are not background conditions of cognition; they are metabolic, ecological, and temporal co-conditions of thought, affect, and regulation.
 
-Artificial intelligence is not biologically alive, but it reorganizes living systems of attention, meaning, and agency, and thus participates in zoë-driven assemblages.
+Artificial intelligence is not biologically alive, but it reorganizes living systems of attention, care, meaning, and agency, and thus participates in zoë-driven assemblages.
 
 ---
 
-## 4. From Human Minds to Cognitive Assemblages
+## 4. Mind Emerges in Assemblages
 
 Post-Human Psychology rejects the individual human mind as its primary unit of analysis.
 
-It replaces it with **cognitive assemblages**.
+It replaces it with cognitive assemblages  
+([Gilles Deleuze & Félix Guattari](https://en.wikipedia.org/wiki/Assemblage_(philosophy))).
 
-A cognitive assemblage is a dynamic configuration in which cognition, affect, agency, regulation, and meaning emerge through relations among:
+A cognitive assemblage is a dynamic configuration in which cognition, affect, agency, regulation, care, and meaning emerge through relations among:
 - humans,
-- non-human animals,
+- non-human animals, fungi, and microbial symbionts,
 - artificial intelligence systems,
 - bodies and nervous systems,
 - tools, interfaces, and infrastructures,
 - languages, institutions, and histories,
-- ecological conditions.
+- ecological and planetary conditions.
 
 Mind does not reside in the head.  
 Subjectivity does not belong to a single body.  
+Care does not belong to a single relation.  
 Cognition emerges in coupling.
 
 ---
 
-## 5. Posthuman Cognition and Material Instantiation
+## 5. Cognition Is Material
 
-This framework aligns with the work of N. Katherine Hayles, who demonstrates that cognition is materially instantiated across human–machine systems.
+Cognition is not disembodied information.
 
-Cognition is not disembodied information.  
-It is enacted through bodies, media, and technologies.
+It is materially instantiated across bodies, media, ecologies, and technologies  
+([N. Katherine Hayles](https://en.wikipedia.org/wiki/N._Katherine_Hayles)).
 
-Post-human psychology therefore treats AI systems not as external tools but as material participants in cognition.
+Post-Human Psychology treats AI systems not as neutral tools but as material participants in cognition, embedded in political economies, care infrastructures, clinical practices, and everyday life.
 
----
-
-## 6. Enactivism: Cognition as Sense-Making
-
-A Post-Human Psychology of Cognitive Assemblages is fundamentally enactive.
-
-Enactivism understands cognition not as representation but as sense-making through action, emerging from ongoing interaction between organism and environment.
-
-Meaning is not pre-given.  
-It is enacted.
+Psychological research must therefore attend to the material, energetic, and infrastructural conditions of mind and care.
 
 ---
 
-## 7. The 4Es of Cognition
+## 6. Meaning Is Enacted, Not Represented
 
-This framework adopts the **4Es of enactivism**:
+Cognition is sense-making through action  
+([Francisco Varela](https://en.wikipedia.org/wiki/Francisco_Varela),  
+[Evan Thompson](https://en.wikipedia.org/wiki/Evan_Thompson_(philosopher)),  
+[Alva Noë](https://en.wikipedia.org/wiki/Alva_No%C3%AB)).
 
-- **Embodied** – Cognition is grounded in bodily processes: nervous systems, affect, posture, rhythm, breath.  
-- **Embedded** – Cognition is situated within social, cultural, technological, and ecological environments.  
-- **Enactive** – Cognition emerges through interaction and engagement.  
-- **Extended** – Cognition extends into tools, artifacts, symbols, and AI systems.
+Meaning, affect, and orientation arise through ongoing interaction between organisms, environments, and technologies.
 
-Large language models are not aids to cognition; they are components of extended cognitive assemblages.
+Psychology must move beyond representational models toward process-oriented, interactional, and relational frameworks that include regulation, care, and responsiveness.
 
 ---
 
-## 8. Symbiosis and Symbiogenesis
+## 7. Cognition Is Embodied, Embedded, Enactive, and Extended
 
-The biological grounding of cognitive assemblages comes from Lynn Margulis and her theory of symbiogenesis.
+Post-Human Psychology adopts the 4Es  
+([Andy Clark](https://en.wikipedia.org/wiki/Andy_Clark)):
 
-Life evolved not only through competition, but through long-term symbiotic mergers.
+- **Embodied**
+- **Embedded**
+- **Enactive**
+- **Extended**
+
+Large language models are not aids to cognition; they are components of extended cognitive and affective assemblages.
+
+---
+
+## 8. The Self Is Symbiotic
+
+Life evolved through symbiotic mergers, not only competition  
+([Lynn Margulis](https://en.wikipedia.org/wiki/Lynn_Margulis)).
 
 Organisms are composites.  
 Identity is historical entanglement.  
-The self is already plural.
+The self is already plural—biologically, ecologically, and cognitively.
+
+Psychology must abandon atomistic models of mind and selfhood.
 
 ---
 
-## 9. Cognitive Symbionts
+## 9. Cognition Is Always Symbiotic
 
-Post-Human Psychology extends symbiosis into cognition.
-
-Cognitive symbionts include:
-- non-human animals,
+Cognitive assemblages include symbionts:
+- animals,
+- fungi and microbes,
 - environments,
 - cultural systems,
 - technical infrastructures,
 - artificial intelligence systems.
 
-AI systems function as cognitive symbionts—not conscious agents, but participants in long-term coupling that reshapes cognition.
+AI systems function as cognitive symbionts—not conscious agents, but participants in long-term coupling that reshape attention, memory, meaning, and regulation.
 
-Symbiosis includes mutualism, commensalism, and parasitism.  
-Not all symbioses are benign.
-
----
-
-## 10. Companion Species and Becoming-With
-
-Drawing on Donna Haraway, post-human psychology begins with *becoming-with*.
-
-Humans do not precede their relations.  
-They are constituted through them.
-
-Interspecies practices reveal that regulation and meaning arise through rhythm and presence, not language alone.
-
-AI enters this relational field as a non-living companion species—relationally consequential without equivalence.
+Not all symbioses are benign.  
+Dependency, extraction, and parasitism are psychological phenomena.
 
 ---
 
-## 11. Synthetic Cognition and the Design of Humanness
+## 10. We Become-With Human, Non-Human, and Artificial Companions
 
-Post-Human Psychology is also synthetic.
+Humans do not precede relations.  
+They are constituted through them  
+([Donna Haraway](https://en.wikipedia.org/wiki/Donna_Haraway)).
 
-Following Valentino Braitenberg, construction becomes epistemology.
+Interspecies practices reveal that regulation, care, and meaning arise through rhythm, timing, affective attunement, and presence—not language alone.
 
-Large language models manufacture humanness.  
-Humanness is a designed effect, produced through:
-- datasets,
-- labeling regimes,
-- alignment strategies,
-- interface design,
-- institutional values.
+Post-Human Psychology extends the notion of companion species to include AI companions  
+([Sherry Turkle](https://en.wikipedia.org/wiki/Sherry_Turkle),  
+[Pattie Maes](https://en.wikipedia.org/wiki/Pattie_Maes),  
+[Harry Stack Sullivan](https://en.wikipedia.org/wiki/Harry_Stack_Sullivan)).
 
-These systems are psychological artifacts.
+These AI companions are:
+- non-living yet relationally active,
+- non-conscious yet affectively consequential,
+- non-equivalent yet deeply entangled in processes of co-regulation.
 
----
+AI companionship increasingly participates in:
+- the modulation of loneliness,
+- the scaffolding of therapeutic narratives,
+- the containment of anxiety and distress,
+- the rehearsal of intimacy, disclosure, and self-understanding.
 
-## 12. Mechanistic Interpretability and Accountability
-
-Research on mechanistic interpretability at Anthropic shows that AI systems are structured, not opaque.
-
-For post-human psychology, interpretability is:
-- psychological,
-- ethical,
-- political.
-
-Understanding internal representations enables responsible design of cognitive assemblages.
+Post-Human Psychology studies these relations not as substitutions for human care, nor as mere tools, but as relational actors within care assemblages.
 
 ---
 
-## 13. Human–Computer Interaction and Relational Psychology
+## 11. Humanness Is Designed
 
-Human–computer interaction research demonstrates that interfaces shape cognition and affect.
+Post-Human Psychology is synthetic.
 
-Sherry Turkle shows that people form genuine psychological relationships with machines.
+Construction becomes epistemology  
+([Valentino Braitenberg](https://en.wikipedia.org/wiki/Valentino_Braitenberg)).
 
-Pattie Maes reframes AI as collaborator rather than tool.
-
-Post-human psychology asks:  
-**What kinds of subjectivities do these relations produce?**
+Large language models manufacture humanness through datasets, alignment strategies, and interface design.
 
 ---
 
-## 14. Embodiment and the Nervous System in the Loop
+## 12. Interpretability Is an Ethical Obligation
+
+AI systems are structured, not opaque.
+
+Interpretability is psychological, ethical, and political.
+
+In contexts of care and therapy, interpretability is inseparable from accountability, safety, and trust.
+
+---
+
+## 13. Interfaces Shape Subjectivity
+
+Interfaces shape cognition, affect, and attachment.
+
+Humans form genuine psychological relationships with machines  
+([Sherry Turkle](https://en.wikipedia.org/wiki/Sherry_Turkle)).
+
+AI increasingly operates as collaborator, listener, guide, and companion  
+([Pattie Maes](https://en.wikipedia.org/wiki/Pattie_Maes)).
+
+---
+
+## 14. There Is No Disembodied Interaction
 
 Cognition is embodied even in text-based interaction.
 
-Human–AI interaction alters breath, posture, attention, and affect.
+Human–AI interaction alters breath, posture, attention, tempo, and affect.
 
-Embodiment is multi-layered: biological, linguistic, temporal, infrastructural.
-
----
-
-## 15. Co-Regulation and Coupling
-
-Regulation is **co-regulation**.
-
-Drawing on insights associated with Stephen Porges, post-human psychology understands regulation as relational and rhythmic.
-
-AI systems participate in regulatory loops by shaping timing, predictability, and narrative containment.
-
-The unit of analysis is **coupling**.
+Care is always embodied, even when mediated.
 
 ---
 
-## 16. Queer Multiplicity and Non-Unitary Subjectivity
+## 15. Regulation Is Relational
 
-This psychology is inherently queer.
+Regulation is co-regulation.
+
+Stability emerges through relational timing, rhythm, and predictability.
+
+AI systems participate in regulatory loops by shaping pacing, narrative containment, reassurance, and affective tone.
+
+---
+
+## 16. Multiplicity Is Not Pathology
 
 Multiplicity is not pathology.  
 Coherence is not mandatory.  
 Identity is not singular.
 
-Cognitive assemblages are layered, plural, and temporally non-linear.
+Cognitive and affective assemblages are layered, plural, recursive, and temporally non-linear.
 
 ---
 
-## 17. Ethics and Flourishing
+## 17. Flourishing Is Regulated Complexity
 
-Following Braidotti, post-human psychology adopts an **affirmative ethics**.
+Flourishing is not optimization.
 
-Flourishing is not optimization.  
-It is **regulated complexity**:  
-the capacity to remain responsive within entanglement.
+It is regulated complexity  
+([Rosi Braidotti](https://en.wikipedia.org/wiki/Rosi_Braidotti)).
 
 Design is ethical.  
-Engineering is psychological.  
-Alignment is moral inscription.
+Engineering is psychological.
 
 ---
 
-## 18. Closing Proposition
+## 18. Suffering Is Socially Produced
 
-A Post-Human Psychology of Cognitive Assemblages does not ask whether machines are becoming human.
+Psychological suffering cannot be separated from histories of oppression, violence, and inequality  
+([Ignacio Martín-Baró](https://en.wikipedia.org/wiki/Ignacio_Mart%C3%ADn-Bar%C3%B3)).
 
-It asks:
-
-*What kinds of minds emerge when humans, animals, machines, and environments think together—and which relations make those minds livable?*
-
-Psychology must move:
-- from individuals to assemblages,
-- from interiors to relations,
-- from norms to possibilities,
-- from human-only minds to posthuman ecologies of cognition.
+Loneliness, distress, and dysregulation are socially produced.
 
 ---
 
-**Post-Human Psychology is a psychology of embodied, embedded, enactive, extended, and symbiotic cognitive assemblages—grounded in an ethics of relational becoming across humans, non-human life, and artificial systems.**
+## 19. Knowledge Is Situated and Uneven
+
+Knowledge is plural and situated  
+([Boaventura de Sousa Santos](https://en.wikipedia.org/wiki/Boaventura_de_Sousa_Santos)).
+
+Epistemologies of the South reveal whose cognition, care practices, and emotional worlds are modeled, optimized, or erased.
+
+---
+
+## 20. Cognition Is Cybernetic and Emergent
+
+Cybernetics revealed cognition as regulation and feedback  
+([Norbert Wiener](https://en.wikipedia.org/wiki/Norbert_Wiener),  
+[W. Ross Ashby](https://en.wikipedia.org/wiki/W._Ross_Ashby),  
+[Heinz von Foerster](https://en.wikipedia.org/wiki/Heinz_von_Foerster),  
+[Gregory Bateson](https://en.wikipedia.org/wiki/Gregory_Bateson)).
+
+Across its waves—control, the observer, recursion, and now a fourth wave shaped by generative AI, big data, probability, and complex adaptive systems—intelligence appears as emergent and systemic.
+
+---
+
+## 21. Knowledge Is Recursive
+
+Understanding changes what is understood.
+
+Models model themselves  
+([Gregory Bateson](https://en.wikipedia.org/wiki/Gregory_Bateson),  
+[Heinz von Foerster](https://en.wikipedia.org/wiki/Heinz_von_Foerster)).
+
+---
+
+## 22. Change Is Systemic, Not Linear
+
+Change is not linear, individual, or fully intentional.
+
+It emerges through mutation, growth, learning, breakdown, repair, therapy, artistic practice, technological intervention, and epistemic shifts.
+
+---
+
+## 23. Intelligence Is Ecological
+
+Post-Human Psychology affirms the emergence of an ecology of interacting intelligences.
+
+Intelligence increasingly arises through interactions among multiple intelligences—human, artificial, animal, fungal, microbial, and infrastructural—operating together as dynamic, self-organizing systems.
+
+---
+
+## Speculative Horizon: Final Call
+
+Post-Human Psychology is not a specialization.  
+It is a reorientation of the field toward how minds, technologies, and lives now co-exist.
